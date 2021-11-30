@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a CRUD based blog application build out with rails scaffolding and with nested comment and article models.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version - 2.6.3
+* Rails 6 
+* Mac OS Monterey
+* Live on Heroku
 
-* System dependencies
 
-* Configuration
 
-* Database creation
 
-* Database initialization
+* How to run the test suite - debug
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* follow the instructions within the heroku link
 
 * ...
