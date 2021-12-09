@@ -9,12 +9,4 @@ Things you may want to cover:
 * Mac OS Monterey
 * Live on Heroku
 
-
-
-
-
-* How to run the test suite - debug
-
-* follow the instructions within the heroku link
-
 * ...
